@@ -1,0 +1,15 @@
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.csproj.AssemblyReference.cache
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.AssemblyInfoInputs.cache
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.AssemblyInfo.cs
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.csproj.CoreCompileInputs.cache
+C:\GitHub\LeetCodeTests\bin\Debug\net6.0\LeetCodeTests.exe
+C:\GitHub\LeetCodeTests\bin\Debug\net6.0\LeetCodeTests.deps.json
+C:\GitHub\LeetCodeTests\bin\Debug\net6.0\LeetCodeTests.runtimeconfig.json
+C:\GitHub\LeetCodeTests\bin\Debug\net6.0\LeetCodeTests.dll
+C:\GitHub\LeetCodeTests\bin\Debug\net6.0\LeetCodeTests.pdb
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.dll
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\refint\LeetCodeTests.dll
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.pdb
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\LeetCodeTests.genruntimeconfig.cache
+C:\GitHub\LeetCodeTests\obj\Debug\net6.0\ref\LeetCodeTests.dll
