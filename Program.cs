@@ -11,7 +11,7 @@ namespace LeetCodeTests
 
             LongestCommonPrefix t = new LongestCommonPrefix();
 
-            string[] arr = new string[] { "flower", "flow", "flight" };
+            string[] arr = new string[] { "a", "a", "a" };
             
             var result = t.FindLongestCommonPrefix(arr);
 
