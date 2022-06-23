@@ -9,9 +9,15 @@ namespace LeetCodeTests
         {
             Console.WriteLine("Hello, World!");
 
-            IsValid t = new IsValid();
+            MergeTwoSortedLists t = new MergeTwoSortedLists();
 
-            var result = t.CheckIsValid("{[]}");
+            //ListNode list1 = new ListNode();
+            //ListNode list2 = new ListNode();
+
+            ListNode list1 = new ListNode(new int[] { 1, 2, 4 });
+            ListNode list2 = new ListNode();
+
+            var result = t.MergeTwoLists(list1, list2);
 
             Console.ReadLine();
         }
