@@ -9,11 +9,9 @@ namespace LeetCodeTests
         {
             Console.WriteLine("Hello, World!");
 
-            LongestCommonPrefix t = new LongestCommonPrefix();
+            IsValid t = new IsValid();
 
-            string[] arr = new string[] { "a", "a", "a" };
-            
-            var result = t.FindLongestCommonPrefix(arr);
+            var result = t.CheckIsValid("{[]}");
 
             Console.ReadLine();
         }
